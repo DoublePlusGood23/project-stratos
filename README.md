@@ -1,33 +1,16 @@
-# Project Asiago
-A hobby operating system based C and a hobby language.
-
-See the [wiki](http://neonorb.com/wiki/Project_Asiago) for more information.
-
-# Goals
-+ ~~Booting!~~
-+ ~~Output!~~
-+ ~~Keyboard input!~~
-+ Color!
-+ Visuals!
-+ A shell!
-+ Cheese Lang!
-+ Self-hosted in Cheese!
-
-# Depends
-GNU Toolchain
-
-Later to use the Cheese Lang toolchain.
+# Project Stratos
+A hobby microkernel operating system based on C 
 
 # Docs
-[OS Dev Wiki](http://wiki.osdev.org/Main_Page)
 
-Also check the Google Drive folder.
++[Little OS Book](https://littleosbook.github.io/)
 
-# Code Style Guide
-Refer to the [GNU Coding Standards.](https://www.gnu.org/prep/standards/standards.html) for a general guide.
++[OS Dev Wiki](http://wiki.osdev.org/Main_Page)
 
-View [this](https://rogerdudler.github.io/git-guide/) if you're unfarmilar with using git.
-  
++[Intel x86 Reference Manual](https://www-ssl.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
+
++*Operating Systems Design and Implementation* by Andrew Tanenbaum
+
 # License
 GPL V3.0 or later (See LICENSE file for details.)
 
