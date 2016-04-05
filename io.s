@@ -7,4 +7,4 @@ outb:
   mov al, [esp + 8]             ; move the data to be sent into the al register
   mov dx, [esp + 4]             ; move the addr of the I/O port in to the dx register
   out dx, al                    ; send the data into the I/O port
-  ret                           ; ret to the calling funct
+  ret                           ; ret calls funct.
